@@ -60,6 +60,10 @@
         font-size: 24px;
     }
     /* Default CSS */
+    .flex-divss {
+        display: flex;
+        flex-wrap: wrap;
+    }
     /* Home  Page One */
     .top-header {
         text-align: center;

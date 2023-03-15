@@ -2283,6 +2283,11 @@ Nav Top CSS
         width: 70px;
     }
     
+    .flex-divss {
+        display: flex;
+        flex-wrap: nowrap;
+    }
+    
     .flex-divs {
         display: flex;
         flex-direction: column;
@@ -2301,6 +2306,7 @@ Nav Top CSS
         align-content: center;
         justify-content: center;
         align-items: center;
+        color: aliceblue;
     }
     
     .flex-div a {
